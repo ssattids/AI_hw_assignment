@@ -1,0 +1,1 @@
+simply run p1.py and it prints out the results for GW1.txt and GW2.txt. 
